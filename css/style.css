@@ -1,0 +1,155 @@
+@charset "utf-8";
+a{
+	text-decoration:none;
+	
+}
+body{
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+}
+.red_cheq{
+	color:#F00;
+}
+.footer{
+	background-image:url(../images/footer.jpg);
+	background-repeat:no-repeat;
+}
+img{
+	border:0px;
+}
+.left_allign{
+padding-top:20px;
+}
+
+.right_allign{
+padding:5px;
+float:right;
+padding-right:15px;
+}
+.home{
+float:left;
+padding:10px;
+padding-left:20px;
+}
+
+.navigate{
+	
+	font-size:14px;font-weight:bold;
+}
+.text1{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:10pt;
+font-weight:bold;
+color:#333333;
+text-decoration:none;
+}
+.head_text{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14pt;
+font-weight:bold;
+color:#FFF;
+text-decoration:none;
+background:url(../images/banner.jpg);
+background-repeat:repeat-x;
+}
+
+.head_text_admin{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14pt;
+font-weight:bold;
+color:#FFF;
+text-decoration:none;
+background:url(../images/banner_back.jpg);
+background-repeat:repeat-x;
+}
+.style3{
+	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12pt;
+font-weight:bold;
+color:#FFF;
+text-decoration:none;
+
+}
+.style3_head{
+	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:9pt;
+font-weight:bold;
+color:#FFF;
+text-decoration:none;
+
+}
+
+
+.text1_black{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:10pt;
+font-weight:bold;
+text-decoration:none;
+}
+.text1_cheq{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:9pt;
+font-weight:normal;
+text-decoration:none;
+}
+
+.style3_black{
+	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12pt;
+font-weight:bold;
+text-decoration:none;
+
+}
+.red{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12pt;
+font-weight:bold;
+color:#F00;
+text-decoration:none;
+
+}
+.red_1{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:9pt;
+font-weight:bold;
+color:#F00;
+text-decoration:none;
+
+}
+
+.top_border{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12pt;
+font-weight:bold;
+color:#ec5aa3;
+text-decoration:none;	
+}
+.text{
+font-family:Tahoma, Geneva, sans-serif;
+font-size:12pt;
+font-weight:bold;
+color:#690;
+text-decoration:none;	
+
+}
+.footer{
+font-family:Times New Roman, Times, serif;
+font-size:14px;
+font-style:italic;
+font-weight:normal;
+color:#03F;
+
+}
+.footer_front{
+font-family:Times New Roman, Times, serif;
+font-size:14px;
+font-style:italic;
+font-weight:normal;
+color:#FFF;
+
+}

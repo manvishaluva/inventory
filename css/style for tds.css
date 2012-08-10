@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+.td_class{
+	font-size:12px;
+	font-weight:lighter;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	
+	
+}
+.td_class_c{
+	font-size:12px;
+	font-weight:lighter;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	
+	
+}
+.tdhead{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#FFF;
+}
+.tdhead_c{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+}
+.tdhead_p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;
+}
+.tdtotal{
+	background-color:#EFED94;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	
+	color:#930000;
+	
+}
+a{
+	text-decoration:none;
+}
+.tdhead_h{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	background-color:#E8E6FF;
+	color:#D22828;
+}
+.nettdtotal{
+	background-color:#A60000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFF;
+}

@@ -1,0 +1,52 @@
+
+
+ul#awesome-menu li { display: inline; }
+	
+ul#awesome-menu li a {
+	display: block; float: left; height: 56px;
+	background-image:url(../images/menu-sprite.png) text-indent: -9999px;
+}
+
+	ul#awesome-menu li a.ninja {
+		 background-position: 0 0;	
+	}
+	
+	ul#awesome-menu li a.zombie {
+		 background-position: -96px 0;	
+	}
+	
+	ul#awesome-menu li a.robot {
+		 background-position: -204px 0;	
+	}
+	
+	ul#awesome-menu li a.assassin {
+		 background-position: -301px 0;	
+	}
+	
+	ul#awesome-menu li a.jedi {
+		 background-position: -422px 0;	
+	}
+	
+	
+	ul#awesome-menu li a.ninja:hover, ul#awesome-menu li a.ninja:focus {
+		background-position: 0 -56px;	
+	}
+	
+	ul#awesome-menu li a.zombie:hover, ul#awesome-menu li a.zombie:focus {
+		background-position: -96px -56px;	
+	}
+	
+	ul#awesome-menu li a.robot:hover, ul#awesome-menu li a.robot:focus {
+		background-position: -204px -56px;	
+	}
+	
+	ul#awesome-menu li a.assassin:hover, ul#awesome-menu li a.assassin:focus {
+		background-position: -301px -56px;	
+	}
+	
+	ul#awesome-menu li a.jedi:hover, ul#awesome-menu li a.jedi:focus {
+		background-position: -422px -56px;	
+	}
+	
+
+a { outline: none; }

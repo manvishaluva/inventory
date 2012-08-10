@@ -1,0 +1,16 @@
+
+
+<link rel="stylesheet" type="text/css" href="epoch_styles.css" />
+<script type="text/javascript" src="epoch_classes.js"></script>
+<script type="text/javascript">
+	var bas_cal,dp_cal,ms_cal;      
+window.onload = function () {
+	bas_cal = new Epoch('epoch_basic','flat',document.getElementById('basic_container'));
+	dp_cal  = new Epoch('epoch_popup','popup',document.getElementById('popup_container'));
+	ms_cal  = new Epoch('epoch_multi','flat',document.getElementById('multi_container'),true);
+};
+</script>
+
+<form id="placeholder" method="get" action="#">
+  <input id="popup_container" type="text"/>
+</form><br/><br/><br/><br/>
